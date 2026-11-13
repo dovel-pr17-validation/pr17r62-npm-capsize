@@ -1,0 +1,7 @@
+# tsdown build output
+/dist
+
+# generate script output
+/entireMetricsCollection
+
+src/types.ts

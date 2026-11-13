@@ -1,0 +1,15 @@
+node_modules
+*.log
+.cache/
+.DS_Store
+coverage/
+storybook-static
+tsconfig.tsbuildinfo
+
+#packages
+dist
+packages/core/README.md
+
+# site
+.cache/
+public
